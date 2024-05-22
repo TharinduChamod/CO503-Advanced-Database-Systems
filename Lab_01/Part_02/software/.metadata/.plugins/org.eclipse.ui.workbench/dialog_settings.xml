@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\adminbistec\Desktop\My Files\Academics\Semester 8\CO503 - Advanced Embedded Systems\Lab 01\Practical 1 System-on-Chip Design &amp; Prototyping using FPGA tools\JPEG_Encoder"/>
+			<item value="C:\Users\adminbistec\Desktop\My Files\Academics\Semester 8\CO503 - Advanced Embedded Systems\Lab 01\Practical 1 System-on-Chip Design &amp; Prototyping using FPGA tools\JPEG_Encoder\files"/>
+			<item value="C:\Users\adminbistec\Desktop\My Files"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>

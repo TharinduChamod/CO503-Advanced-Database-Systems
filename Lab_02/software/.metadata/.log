@@ -1,0 +1,19 @@
+!SESSION 2024-04-25 16:17:27.162 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-25 16:18:39.114
+!MESSAGE Indexed 'CRC_bsp' (82 sources, 112 headers) in 1.69 sec: 2,665 declarations; 4,586 references; 46 unresolved inclusions; 296 syntax errors; 160 unresolved names (2.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-25 16:18:39.327
+!MESSAGE Indexed 'CRC' (0 sources, 13 headers) in 0.01 sec: 0 declarations; 0 references; 13 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2024-04-25 16:22:15.940
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x81030 --id=0x0 --timestamp=1714041807]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2024-04-25 16:22:18.119
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x81030 --id=0x0 --timestamp=1714041807 /cygdrive/c/Users/adminbistec/Desktop/CO503/Lab_02/software/CRC/CRC.elf]

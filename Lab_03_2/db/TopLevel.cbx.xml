@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="TopLevel">
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|SoC_cpu_0_ic_tag_module:SoC_cpu_0_ic_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_7ng1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|SoC_cpu_0_nios2_oci:the_SoC_cpu_0_nios2_oci|SoC_cpu_0_nios2_ocimem:the_SoC_cpu_0_nios2_ocimem|SoC_cpu_0_ociram_sp_ram_module:SoC_cpu_0_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8381.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|SoC_cpu_1_ic_data_module:SoC_cpu_1_ic_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_cjd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|SoC_cpu_1_nios2_oci:the_SoC_cpu_1_nios2_oci|SoC_cpu_1_nios2_ocimem:the_SoC_cpu_1_nios2_ocimem|SoC_cpu_1_ociram_sp_ram_module:SoC_cpu_1_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_9381.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|SoC_cpu_1_register_bank_b_module:SoC_cpu_1_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_bdg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_data_memory_1:data_memory_1|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_adc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_instruction_memory_1:instruction_memory_1|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_n9d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|SoC_cpu_0_register_bank_a_module:SoC_cpu_0_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8dg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|lpm_add_sub:Add8" CBX_FILE_NAME="add_sub_qvi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|SoC_cpu_1_register_bank_a_module:SoC_cpu_1_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_adg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_jtag_uart_0:jtag_uart_0|SoC_jtag_uart_0_scfifo_w:the_SoC_jtag_uart_0_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_FIFO:fifo|SoC_FIFO_scfifo_with_controls:the_scfifo_with_controls|SoC_FIFO_single_clock_fifo:the_scfifo|scfifo:single_clock_fifo" CBX_FILE_NAME="scfifo_2241.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_data_memory_0:data_memory_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_9dc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_instruction_memory_0:instruction_memory_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_m9d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_jtag_uart_0:jtag_uart_0|SoC_jtag_uart_0_scfifo_r:the_SoC_jtag_uart_0_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_jtag_uart_0:jtag_uart_1|SoC_jtag_uart_0_scfifo_w:the_SoC_jtag_uart_0_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|SoC_cpu_0_ic_data_module:SoC_cpu_0_ic_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_cjd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_0:cpu_0|SoC_cpu_0_register_bank_b_module:SoC_cpu_0_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_9dg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|SoC_cpu_1_ic_tag_module:SoC_cpu_1_ic_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8ng1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_cpu_1:cpu_1|lpm_add_sub:Add8" CBX_FILE_NAME="add_sub_qvi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TopLevel|SoC:inst1|SoC_jtag_uart_0:jtag_uart_1|SoC_jtag_uart_0_scfifo_r:the_SoC_jtag_uart_0_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377009817
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377016328
+activated,view,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.DebugView",1716377016336
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.Resume",1716377016556
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377027908
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377055769
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.Terminate",1716377055981
+error,log,,,"Internal Error",1716377056024
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377057540
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377058942
+started,bundle,org.eclipse.cdt.mylyn.ui,3.6.0.v20110608-1400,"org.eclipse.cdt.mylyn.ui",1716377059028
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1716377059113
